@@ -1,0 +1,7 @@
+{
+  "name": "Flor Viera - Nails & Makeup",
+  "description": "Plataforma premium de gestión de turnos con estética elegante, IA integrada y automatización de WhatsApp.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
